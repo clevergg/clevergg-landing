@@ -37,12 +37,9 @@ a:hover {
   border-radius: calc(infinity * 1px);
   background-color: white;
   padding: 12px 40px;
+  max-width: 200px;
 }
 .button:hover{
   background-color: #B292FF;
   color: white;
-}
-.mask_image{
-  mask-image: url("../assets/blob.svg");
-  mask-repeat: no-repeat;
 }
